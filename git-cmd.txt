@@ -1,0 +1,33 @@
+git init
+git clone
+git status
+git add
+git commit
+git log
+git diff
+git restore
+git rm
+git stash
+
+git branch
+git switch
+git merge
+git rebase
+
+git remote
+git remote -v
+git remote add
+git remote remove
+git remote set-url
+
+git fetch
+git pull
+git push
+
+git tag
+git revert
+git reset
+git cherry-pick
+git reflog
+git blame
+git bisect
